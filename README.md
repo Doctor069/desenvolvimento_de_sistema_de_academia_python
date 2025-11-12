@@ -15,12 +15,12 @@ O projeto foi estruturado seguindo os pilares da POO:
 
 O sistema de terminal implementa as seguintes funcionalidades:
 
-* [cite_start]**Gerenciamento de Alunos:** Cadastrar novos alunos.
-* [cite_start]**Validação:** O sistema impede o cadastro de alunos com CPF duplicado.
-* [cite_start]**Gerenciamento de Reservas:** Adicionar e listar todas as reservas.
-* [cite_start]**Manutenção de Reservas:** Atualizar o status de uma reserva (ex: Reservado, Confirmado, Cancelado).
-* [cite_start]**Relatórios:** Gerar um relatório simples de contagem de reservas ativas por aluno.
-* [cite_start]**Persistência de Dados:** O sistema salva e carrega automaticamente todos os dados (alunos e reservas) de arquivos `.txt`, garantindo que os dados não sejam perdidos ao fechar o programa.
+* **Gerenciamento de Alunos:** Cadastrar novos alunos.
+* **Validação:** O sistema impede o cadastro de alunos com CPF duplicado.
+* **Gerenciamento de Reservas:** Adicionar e listar todas as reservas.
+* **Manutenção de Reservas:** Atualizar o status de uma reserva (ex: Reservado, Confirmado, Cancelado).
+* **Relatórios:** Gerar um relatório simples de contagem de reservas ativas por aluno.
+* **Persistência de Dados:** O sistema salva e carrega automaticamente todos os dados (alunos e reservas) de arquivos `.txt`, garantindo que os dados não sejam perdidos ao fechar o programa.
 
 ## 📂 Estrutura Modular do Projeto
 
